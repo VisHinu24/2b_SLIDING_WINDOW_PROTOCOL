@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## Name : H Vishinu
+## Reg No : 212223220124
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
